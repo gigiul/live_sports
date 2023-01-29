@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/live_sports/static/css/main.e6c13ad2.css",
+    "main.js": "/live_sports/static/js/main.286f3081.js",
+    "index.html": "/live_sports/index.html",
+    "main.e6c13ad2.css.map": "/live_sports/static/css/main.e6c13ad2.css.map",
+    "main.286f3081.js.map": "/live_sports/static/js/main.286f3081.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.286f3081.js"
+  ]
+}
